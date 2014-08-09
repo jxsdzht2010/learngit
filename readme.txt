@@ -1,4 +1,4 @@
 git is a good version control system.
 git is free software under the GPL.
 git has a mutable index called stage.
-this is conflict.
+this is a good conflict.
